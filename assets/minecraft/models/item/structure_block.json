@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/structure_block",
+  "overrides": [
+    { "predicate": { "custom_model_data": 790000 }, "model": "ignifer:item/phoenix_feather" }
+  ]
+}

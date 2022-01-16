@@ -1,0 +1,24 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": [
+      {
+        "text": "Ignifer",
+        "color": "#E55432"
+      },
+      {
+        "text": " | ",
+        "color": "#3C3645"
+      },
+      {
+        "text": "v",
+        "color": "#F08D42",
+        "extra": [
+          {
+            "text": "0.1.0"
+          }
+        ]
+      }
+    ]
+  }
+}
